@@ -71,8 +71,8 @@ section {
     padding: 20px 0px 150px 0px;
 }
 .form-items {
-    color:#777777;
-    margin-top:15px;
+    color:#777;
+    margin-top:50px;
 }
 .submit-button {
     margin-top:15px;
@@ -82,10 +82,10 @@ section {
     border:none;
 }
 .submit-button:hover {
-    background-color:#3E0CE8;
+    background-color:#365b96;
 }
 a:hover {
-    color:#3E0CE8;
+    color:#365b96;
 }
 .port-img {
     height:300px;
