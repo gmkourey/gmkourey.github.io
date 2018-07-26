@@ -96,7 +96,7 @@ a:hover {
     color:white;
     width: 300px;
     text-align: center;
-    padding: 10px 0px;
+    padding: 20px 0px;
     position:absolute;
     bottom:30px;
 }
@@ -111,7 +111,7 @@ footer {
     text-align:center;
     border-top: 4px solid #4aaaa5;
     padding: 20px 0px;
-    position:fixed;
+    position: fixed;
     bottom:0px;
     width:100%;
 }
